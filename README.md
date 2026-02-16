@@ -56,7 +56,7 @@ Dashboard menampilkan:
 
 ## 📂 Struktur Folder
 
-
+```
 submission/
 │
 ├── dashboard/
@@ -67,7 +67,7 @@ submission/
 ├── README.md
 ├── requirements.txt
 └── url.txt
-
+```
 ---
 
 ## ▶️ Cara Menjalankan Dashboard Secara Lokal
