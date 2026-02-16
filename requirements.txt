@@ -126,5 +126,5 @@ websocket-client==1.9.0
 wheel==0.45.1
 widgetsnbextension==4.0.15
 xyzservices==2025.11.0
-zstandard==0.21.2
+zstandard>=0.21.3
 altair==6.0.0
